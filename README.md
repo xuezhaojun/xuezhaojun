@@ -9,8 +9,7 @@ Software Engineer based in China | Kubernetes & AI Agent
 #### What I Do
 
 - Building [Open Cluster Management](https://github.com/open-cluster-management-io) — multi-cluster Kubernetes management
-- Writing Go, TypeScript, and occasionally Python
-- Exploring AI-powered developer tooling
+- Building [KubeOpenCode](https://github.com/kubeopencode/kubeopencode) — run OpenCode Agent on Kubernetes
 
 ---
 
