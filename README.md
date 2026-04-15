@@ -1,18 +1,26 @@
-### Hi there 👋
+### Hi, I'm Xuezhao Jun
 
-<!--
-**xuezhaojun/xuezhaojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in China | Kubernetes & AI Agent
 
-Here are some ideas to get you started:
+> *I'm a slow walker, but I never walk back.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![](https://github-readme-stats.vercel.app/api?username=xuezhaojun&theme=buefy&show_icons=true)
+#### What I Do
+
+- Building [Open Cluster Management](https://github.com/open-cluster-management-io) — multi-cluster Kubernetes management
+- Writing Go, TypeScript, and occasionally Python
+- Exploring AI-powered developer tooling
+
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=xuezhaojun&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xuezhaojun&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+---
+
+#### Links
+
+- [Blog](https://xuezhaojun.notion.site/) | [GitHub](https://github.com/xuezhaojun)
