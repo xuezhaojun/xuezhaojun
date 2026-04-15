@@ -1,4 +1,4 @@
-### Hi, I'm Xuezhao Jun
+### Hi, I'm Xue Zhao
 
 Software Engineer based in China | Kubernetes & AI Agent
 
