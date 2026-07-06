@@ -22,4 +22,4 @@ Software Engineer based in China | Cloud & Kubernetes & AI Infra & AI Agent
 
 #### Links
 
-- [Blog](https://xuezhaojun.notion.site/) | [GitHub](https://github.com/xuezhaojun)
+- [Blog](https://xuezhaojun.github.io/posts/) | [GitHub](https://github.com/xuezhaojun)
