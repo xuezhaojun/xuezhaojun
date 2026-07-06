@@ -1,6 +1,6 @@
 ### Hi, I'm Xue Zhao
 
-Software Engineer based in China | Kubernetes & AI Agent
+Software Engineer based in China | Cloud & Kubernetes & AI Infra & AI Agent
 
 > *I'm a slow walker, but I never walk back.*
 
